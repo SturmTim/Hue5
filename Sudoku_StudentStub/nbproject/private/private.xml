@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/GridCallable.java</file>
             <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/SudokuSolver.java</file>
+            <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/RowCallable.java</file>
+            <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/ColumnCallable.java</file>
+            <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/SolverCallable.java</file>
+            <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/Sudoku.java</file>
             <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/Main.java</file>
             <file>file:/C:/Users/timst/Desktop/Schule/3.%20Klasse/POS3/Hue5/Sudoku_StudentStub/src/net/htlgrieskirchen/pos3/sudoku/ISodukoSolver.java</file>
         </group>
